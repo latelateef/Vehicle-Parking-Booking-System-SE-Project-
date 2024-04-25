@@ -24,3 +24,4 @@ Welcome to the Online Car Parking Booking System! This system allows users to bo
 1. Install and setup Xampp
 2. Clone the repository into xampp htdocs directory
 3. Import the database in phpMyAdmin
+4. Make sure to update payment gateway api id and key in status.php and book_form.php
