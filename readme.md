@@ -1,4 +1,4 @@
-# Online Car Parking Booking System
+# Online Car Parking Booking System (SE Project)
 
 Welcome to the Online Car Parking Booking System! This system allows users to book parking slots online, making the process of finding and reserving parking spaces convenient and hassle-free.
 
